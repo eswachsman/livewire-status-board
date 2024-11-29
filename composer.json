@@ -1,8 +1,8 @@
 {
-    "name": "asantibanez/livewire-status-board",
+    "name": "eswachsman/livewire-status-board",
     "description": "Livewire component to show models/data according to its current status",
     "keywords": [
-        "asantibanez",
+        "eswachsman",
         "livewire-status-board"
     ],
     "homepage": "https://github.com/asantibanez/livewire-status-board",
@@ -10,13 +10,13 @@
     "type": "library",
     "authors": [
         {
-            "name": "Andrés Santibáñez",
+            "name": "Efraim Wachsman",
             "email": "santibanez.andres@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
+        "php": "^7.2|^8.0|^8.2",
         "illuminate/support": "^7.0|^8.0|^9.0|^10.0|^11.0",
         "livewire/livewire": "^1.0|^2.0|^3.4"
     },
